@@ -1,24 +1,27 @@
-Jupiter Broadcasting XBMC Addon
-===============================
+# Jupiter Broadcasting XBMC Addon
+
 Watch shows from the [Jupiter Broadcasting](http://jupiterbroadcasting.com) network.
 
-Shows
------
-* [Live Show](http://jblive.tv)
-* Linux Action Show
-* TechSNAP
-* Jupiter Files
-* SciByte
-* LOTSO
-* STOked
-* The MMOrgue
-* Jupiter@Nite
-* Beer Is Tasty
-* FauxShow
 
-Git Branch
-----------
+## Install
+
+1. Visit Video Addons
+2. Select Get More...
+3. Find and select the Jupiter Broadcasting addon
+
+
+## Development
+
+```bash
+$ cd ~/.xbmc/addons/
+$ git clone git@github.com:RobLoach/plugin.video.jupiterbroadcasting.git
+```
+
+
+## Branch
+
 Check out the git branch according to what version of XBMC you're running.
 
-* dharma
-* eden
+* `frodo`
+* `eden`
+* `dharma`
