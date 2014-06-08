@@ -1,7 +1,6 @@
-LICENSE
-=======
+# LICENSE
 
-The Jupiter Broadcasting XBMC Addon is released under the MIT License:
+The **Jupiter Broadcasting XBMC Addon** is released under the [MIT License](http://en.wikipedia.org/wiki/MIT_License):
 
 > Copyright (C) 2014+ Rob Loach (http://robloach.net)
 >
