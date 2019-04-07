@@ -69,7 +69,7 @@
 - Add new logo for Linux Action Show and Linux Unplugged
 
 [B]Version 3.0.5: April 3rd, 2014[/B]
-- Change Logo to new Jupiter Broadcasting Logo
+- Change Logo to new Ask Noah Show Logo
 
 [B]Version 3.0.4: March 23rd, 2014[/B]
 - Updated documentation

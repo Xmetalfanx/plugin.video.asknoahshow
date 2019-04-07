@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Jupiter Broadcasting Kodi Addon
+Ask Noah Show Kodi Addon
 https://github.com/JupiterBroadcasting/plugin.video.jupiterbroadcasting
 """
 
@@ -11,12 +11,12 @@ from BeautifulSoup import BeautifulStoneSoup
 import jb_shows
 from feed_parser import FeedParser
 
-__settings__ = xbmcaddon.Addon(id='plugin.video.jupiterbroadcasting')
+__settings__ = xbmcaddon.Addon(id='plugin.video.asknoahshow')
 __language__ = __settings__.getLocalizedString
 
 def categories(show_archived=False):
     """
-    Load the available categories for Jupiter Broadcasting.
+    Load the available categories for Ask Noah Show.
     """
 
     shows = {}
@@ -134,7 +134,7 @@ def index(name, url, page):
             # Add the episode link.
             add_link(info['title'], video, pubDate, thumbnail, info)
     except Exception as e:
-        xbmc.log('Jupiter Broadcasting Parsing Failure. Provide this log to https://github.com/JupiterBroadcasting/plugin.video.jupiterbroadcasting : %s' % (e), xbmc.LOGERROR)
+        xbmc.log('Ask Noah Show Parsing Failure. Provide this log to - TODO: change link - https://github.com/JupiterBroadcasting/plugin.video.jupiterbroadcasting : %s' % (e), xbmc.LOGERROR)
         raise
 
     xbmcplugin.setContent(int(sys.argv[1]), 'episodes')
@@ -144,13 +144,13 @@ def add_livestream():
         livestream = int(__settings__.getSetting("live_stream"))
         live_url = ''
         if livestream == 0: # RTSP
-            live_url = 'rtsp://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream'
+            live_url = 'https://na-us-se15.secdn.net/altispeed-live/play/mdmstream/chunklist_w95516598.m3u8'
         if livestream == 1: # RTMP
-            live_url = 'rtmp://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream'
+            live_url = 'https://na-us-se15.secdn.net/altispeed-live/play/mdmstream/chunklist_w95516598.m3u8'
         elif livestream == 2: # HLS
-            live_url = 'http://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream/playlist.m3u8'
+            live_url = 'https://na-us-se15.secdn.net/altispeed-live/play/mdmstream/chunklist_w95516598.m3u8'
         elif livestream == 3: # Audio
-            live_url = 'http://jblive.fm'
+            live_url = 'https://na-us-se15.secdn.net/altispeed-live/play/mdmstream/chunklist_w95516598.m3u8'
 
         add_link(
             name=__language__(30010),
@@ -160,7 +160,7 @@ def add_livestream():
                 __settings__.getAddonInfo('path'),
                 'resources',
                 'media',
-                'jblive-tv.jpg'),
+                'asknoah-videos.png'),
             info={
                 'title': __language__(30010),
                 'plot': __language__(30210),

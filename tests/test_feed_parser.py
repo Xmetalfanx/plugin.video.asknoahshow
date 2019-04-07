@@ -178,7 +178,7 @@ def _feed_data():
         'pubDate': 'Thu, 29 Dec 2016 10:30:24 -0800',
         'summary': 'Chris takes over and guest hosts the show to give the guys some time off.\n\nWe take a look back at 2016 in BSD, covering the announcement of TrueOS, OpenBSD and FreeBSD releases, a talk with Petra about NetBSD & much more!',
         'description': 'Chris takes over and guest hosts the show to give the guys some time off.\n\nWe take a look back at 2016 in BSD, covering the announcement of TrueOS, OpenBSD and FreeBSD releases, a talk with Petra about NetBSD & much more!',
-        'director': 'Jupiter Broadcasting',
+        'director': 'Ask Noah Show',
         'thumbnail': 'http://www.jupiterbroadcasting.com/wp-content/uploads/2016/12/bsd-0174v2-v.jpg'
     }
 
