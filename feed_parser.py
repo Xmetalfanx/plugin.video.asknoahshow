@@ -92,7 +92,7 @@ class FeedParser(object):
 
     def parsePlot(self, item):
         plot = ''
-        description = item.find('description')
+        description = item.find('itunes:subtitle')
         if description != None:
             # strip html from string
             plot = ml_stripper.html_to_text(description.string)
