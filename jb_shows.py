@@ -7,6 +7,7 @@ FEED_BURNER = 'http://feeds2.feedburner.com/'
 FEED_PRESS = 'http://feedpress.me/'
 ASKNOAH_COM = 'http://podcast.asknoahshow.com'
 
+
 # public methods
 
 def get_all_shows():
@@ -59,9 +60,9 @@ def _shows():
     
     # Ask Noah
     shows[30000] = {
-        'feed': 'http://podcast.asknoahshow.com/rss',
-        'feed-low': 'http://podcast.asknoahshow.com/rss',
-        'feed-audio': 'http://podcast.asknoahshow.com/rss',
+        'feed': 'https://feeds.fireside.fm/asknoah/rss',
+        'feed-low': 'https://feeds.fireside.fm/asknoah/rss',
+        'feed-audio': 'https://feeds.fireside.fm/asknoah/rss',
         'image': 'asknoah.png',
         'plot': 30200,
         'genre': 'Technology',
