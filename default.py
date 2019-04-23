@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 Ask Noah Show Kodi Addon
-https://github.com/JupiterBroadcasting/plugin.video.jupiterbroadcasting
+
 """
 
 import sys, urllib, urllib2, re, xbmcplugin, xbmcgui, xbmcaddon, os

@@ -22,15 +22,14 @@ class FeedParser(object):
         self.soup = None
         self.items = None
 
-    def parseXML(self):
-        """
-        Loads feed url and parse
-        """
-        data = self._readUrl()
-        self.soup = self._parseWithSoup(data)
-        self.items = self.soup.findAll('item')
-        self.total_feed_items = len(self.items)
-
+        def parseXML(self):
+            """
+            Loads feed url and parse
+            """
+            data = self._readUrl()
+            self.soup = self._parseWithSoup(data)
+            self.items = self.soup.findAll('item')
+            self.total_feed_items = len(self.items)
 
     def _readUrl(self):
         """
@@ -106,14 +105,6 @@ class FeedParser(object):
             author = parsed_author.string
 
         return author
-
-    def parseThumbnail(self, item):
-        # Load the self-closing media:thumbnail data.
-        thumbnail = None
-        mediathumbnail = item.findAll('media:thumbnail')
-        if mediathumbnail:
-            thumbnail = mediathumbnail[0]['url']
-        return thumbnail
 
     def isItemBeforeCurrentPage(self):
         return self.current_feed_item < self.start_feed_item

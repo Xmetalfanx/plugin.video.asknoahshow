@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
+	<channel>
+		<hostname>
+			feed01.fireside.fm
+		</hostname>
+		<genDate>
+			Wed, 17 Apr 2019 14:48:13 -0500
+		</genDate>
+		<generator>
+			Fireside (https://fireside.fm)
+		</generator>
+		<title>
+			Ask Noah Show
+		</title>
+		<link>
+			https://podcast.asknoahshow.com
+		</link>
+		<pubDate>
+			Wed, 17 Apr 2019 17:42:03 -0000
+		</pubDate>
+		<description>
+			The Ask Noah Show is a weekly radio call in show where we take your tech questions or business in tech questions live on the air.
+			The show airs Tuesdays at 6pm CST on asknoahshow.com and at KEQQ 88.3 FM in Grand Forks ND.
+			It's a free call 1-855-450-NOAH so join us and start on your way to owning your operating system, your software, and technology.
+		</description>
+		<language>
+			en-us
+		</language>
+		<type>
+			episodic
+		</type>
+		<subtitle>
+			The community centered show where you are the content!
+		</subtitle>
+		<author>
+			Noah J. Chelliah
+		</author>
+		<summary>
+			The Ask Noah Show is a weekly radio call in show where we take your tech questions or business in tech questions live on the air.
+			The show airs Tuesdays at 6pm CST on asknoahshow.com and at KEQQ 88.3 FM in Grand Forks ND.
+			It's a free call 1-855-450-NOAH so join us and start on your way to owning your operating system, your software, and technology.
+		</summary>
+		<image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/305e3275-6919-4ed2-9ca1-b21e0cf904b2/cover.jpg?v=1" />
+		<explicit>
+			no
+		</explicit>
+		<owner>
+			<name>
+				Noah J. Chelliah
+			</name>
+			<email>
+				live@asknoahshow.com
+			</email>
+		</owner>
+		<category text="Technology">
+			<category text="Tech News" />
+		</category>
+		<category text="Technology">
+			<category text="Software How-To" />
+		</category>
+		<item>
+			<title>
+				Episode 123: Locking it Down with Yubikey
+			</title>
+			<link>
+				https://podcast.asknoahshow.com/123
+			</link>
+			<guid isPermaLink="false">
+				206484c9-05de-4ed1-a395-80dafd5a269e
+			</guid>
+			<pubDate>
+				Tue, 16 Apr 2019 19:00:00 -0500
+			</pubDate>
+			<author>
+				Noah J. Chelliah
+			</author>
+			<enclosure url="https://aphid.fireside.fm/d/1437767933/305e3275-6919-4ed2-9ca1-b21e0cf904b2/206484c9-05de-4ed1-a395-80dafd5a269e.mp3" length="81151581" type="audio/mpeg" />
+			<episodeType>
+				full
+			</episodeType>
+			<author>
+				Noah J. Chelliah
+			</author>
+			<subtitle>
+				Venkat Venkataraju principal software engineer from Yubico joins us this hour to share the exciting new features and functionality Yubico is bringing to the table!
+			</subtitle>
+			<duration>
+				56:21
+			</duration>
+			<explicit>
+				no
+			</explicit>
+			<image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/305e3275-6919-4ed2-9ca1-b21e0cf904b2/cover.jpg?v=1" />
+			<description>
+				Venkat Venkataraju principal software engineer from Yubico joins us this hour to share the exciting new features and functionality Yubico is bringing to the table!
+				Project Links:
+				Website: https://www.yubico.com
+				Facebook: https://www.facebook.com/Yubikey
+				Github: https://github.com/yubico
+				Twitter: https://twitter.com/yubico
+				Youtube: https://www.youtube.com/c/Yubico
+				Project Links:
+				Website: https://www.yubico.com
+				Twitter: https://twitter.com/Yubico
+				-- Side Notes --
+				Gimp : https://www.gimp.org/news/2019/04/07/gimp-2-10-10-released/
+				Gnome : https://feaneron.com/2019/04/05/rewarding-our-friends-of-gnome/
+				Project Spotlight:
+				The Shell: https://github.com/vicr123/theshell
+				"theShell" is a GPL-3.0 licensed Desktop Environment written using the Qt toolkit for those wanting a simple desktop.  theShell is only tested on Arch Linux. Your mileage may vary on other distributions.
+				-- Calls --
+				Chaz - Ubuntu 19.04 NVidia Drivers
+				Nathan - DMX Lighting
+				Carey - Church Wifi Question
+				--  The Extra Credit Section --
+				For links to the articles and material referenced in this week's episode check out this week's page from our podcast dashboard!
+				This Episode's Podcast Dashboard (http://podcast.asknoahshow.com/123)
+				Phone Systems for Ask Noah provided by Voxtelesys (http://www.voxtelesys.com/asknoah)
+				Join us in our dedicated chatroom #AskNoahShow on Freenode!
+				-- Stay In Touch --
+				Find all the resources for this show on the Ask Noah Dashboard
+				Ask Noah Dashboard (http://www.asknoahshow.com)
+				Need more help than a radio show can offer? Altispeed provides commercial IT services and they’re excited to offer you a great deal for listening to the Ask Noah Show. Call today and ask about the discount for listeners of the Ask Noah Show!
+				Altispeed Technologies (http://www.altispeed.com/)
+				Contact Noah
+				live [at] asknoahshow.com
+				-- Twitter --
+				Noah - Kernellinux (https://twitter.com/kernellinux)
+				Ask Noah Show (https://twitter.com/asknoahshow)
+				Altispeed Technologies (https://twitter.com/altispeed)
+			</description>
+			<encoded>
+				<![CDATA[
+				<p>Venkat Venkataraju principal software engineer from Yubico joins us this hour to share the exciting new features and functionality Yubico is bringing to the table!</p>
+				
+				<p>Project Links: <br>
+				Website: <a href="https://www.yubico.com" rel="nofollow">https://www.yubico.com</a><br>
+				Facebook: <a href="https://www.facebook.com/Yubikey" rel="nofollow">https://www.facebook.com/Yubikey</a><br>
+				Github: <a href="https://github.com/yubico" rel="nofollow">https://github.com/yubico</a><br>
+				Twitter: <a href="https://twitter.com/yubico" rel="nofollow">https://twitter.com/yubico</a><br>
+				Youtube: <a href="https://www.youtube.com/c/Yubico" rel="nofollow">https://www.youtube.com/c/Yubico</a> </p>
+				
+				<p>Project Links:</p>
+				
+				<p>Website: <a href="https://www.yubico.com" rel="nofollow">https://www.yubico.com</a><br>
+				Twitter: <a href="https://twitter.com/Yubico" rel="nofollow">https://twitter.com/Yubico</a></p>
+				
+				<h3><strong>-- Side Notes --</strong></h3>
+				
+				<p>Gimp : <a href="https://www.gimp.org/news/2019/04/07/gimp-2-10-10-released/" rel="nofollow">https://www.gimp.org/news/2019/04/07/gimp-2-10-10-released/</a><br>
+				Gnome : <a href="https://feaneron.com/2019/04/05/rewarding-our-friends-of-gnome/" rel="nofollow">https://feaneron.com/2019/04/05/rewarding-our-friends-of-gnome/</a></p>
+				
+				<p>Project Spotlight:<br>
+				The Shell: <a href="https://github.com/vicr123/theshell" rel="nofollow">https://github.com/vicr123/theshell</a><br>
+				&quot;theShell&quot; is a GPL-3.0 licensed Desktop Environment written using the Qt toolkit for those wanting a simple desktop.  theShell is only tested on Arch Linux. Your mileage may vary on other distributions.</p>
+				
+				<h3><strong>-- Calls --</strong></h3>
+				
+				<ul>
+				<li>Chaz - Ubuntu 19.04 NVidia Drivers</li>
+				<li>Nathan - DMX Lighting</li>
+				<li>Carey - Church Wifi Question</li>
+				</ul>
+				
+				<h3><strong>--  The Extra Credit Section --</strong></h3>
+				
+				<p>For links to the articles and material referenced in this week&#39;s episode check out this week&#39;s page from our podcast dashboard!</p>
+				
+				<p><a href="http://podcast.asknoahshow.com/123" rel="nofollow">This Episode&#39;s Podcast Dashboard</a></p>
+				
+				<p><a href="http://www.voxtelesys.com/asknoah" rel="nofollow">Phone Systems for Ask Noah provided by Voxtelesys</a></p>
+				
+				<p>Join us in our dedicated chatroom #AskNoahShow on Freenode!</p>
+				
+				<h3><strong>-- Stay In Touch --</strong></h3>
+				
+				<p><strong>Find all the resources for this show on the Ask Noah Dashboard</strong></p>
+				
+				<blockquote>
+				<p><a href="http://www.asknoahshow.com" rel="nofollow">Ask Noah Dashboard</a></p>
+				</blockquote>
+				
+				<p><strong>Need more help than a radio show can offer? Altispeed provides commercial IT services and they’re excited to offer you a great deal for listening to the Ask Noah Show. Call today and ask about the discount for listeners of the Ask Noah Show!</strong></p>
+				
+				<blockquote>
+				<p><a href="http://www.altispeed.com/" rel="nofollow">Altispeed Technologies</a></p>
+				</blockquote>
+				
+				<p><strong>Contact Noah</strong></p>
+				
+				<blockquote>
+				<p>live [at] asknoahshow.com</p>
+				</blockquote>
+				
+				<p><strong>-- Twitter --</strong></p>
+				
+				<ul>
+				<li><a href="https://twitter.com/kernellinux" rel="nofollow">Noah - Kernellinux</a></li>
+				<li><a href="https://twitter.com/asknoahshow" rel="nofollow">Ask Noah Show</a></li>
+				<li><a href="https://twitter.com/altispeed" rel="nofollow">Altispeed Technologies</a></li>
+				</ul><p>Links:</p><ul><li><a href="https://www.qlcplus.org/" title="QLC+ by Massimo Callegari" rel="nofollow">QLC+ by Massimo Callegari</a></li><li><a href="http://www.amazon.com/exec/obidos/ASIN/B00T8OKM98/altispeed-20" title="Amazon.com: DMXking UltraDMX Micro – USB DMX Adapter/Dongle: Gateway" rel="nofollow">Amazon.com: DMXking UltraDMX Micro – USB DMX Adapter/Dongle: Gateway</a></li></ul>
+				]]>
+			</encoded>
+			<summary>
+				<![CDATA[
+				<p>Venkat Venkataraju principal software engineer from Yubico joins us this hour to share the exciting new features and functionality Yubico is bringing to the table!</p>
+				
+				<p>Project Links: <br>
+				Website: <a href="https://www.yubico.com" rel="nofollow">https://www.yubico.com</a><br>
+				Facebook: <a href="https://www.facebook.com/Yubikey" rel="nofollow">https://www.facebook.com/Yubikey</a><br>
+				Github: <a href="https://github.com/yubico" rel="nofollow">https://github.com/yubico</a><br>
+				Twitter: <a href="https://twitter.com/yubico" rel="nofollow">https://twitter.com/yubico</a><br>
+				Youtube: <a href="https://www.youtube.com/c/Yubico" rel="nofollow">https://www.youtube.com/c/Yubico</a> </p>
+				
+				<p>Project Links:</p>
+				
+				<p>Website: <a href="https://www.yubico.com" rel="nofollow">https://www.yubico.com</a><br>
+				Twitter: <a href="https://twitter.com/Yubico" rel="nofollow">https://twitter.com/Yubico</a></p>
+				
+				<h3><strong>-- Side Notes --</strong></h3>
+				
+				<p>Gimp : <a href="https://www.gimp.org/news/2019/04/07/gimp-2-10-10-released/" rel="nofollow">https://www.gimp.org/news/2019/04/07/gimp-2-10-10-released/</a><br>
+				Gnome : <a href="https://feaneron.com/2019/04/05/rewarding-our-friends-of-gnome/" rel="nofollow">https://feaneron.com/2019/04/05/rewarding-our-friends-of-gnome/</a></p>
+				
+				<p>Project Spotlight:<br>
+				The Shell: <a href="https://github.com/vicr123/theshell" rel="nofollow">https://github.com/vicr123/theshell</a><br>
+				&quot;theShell&quot; is a GPL-3.0 licensed Desktop Environment written using the Qt toolkit for those wanting a simple desktop.  theShell is only tested on Arch Linux. Your mileage may vary on other distributions.</p>
+				
+				<h3><strong>-- Calls --</strong></h3>
+				
+				<ul>
+				<li>Chaz - Ubuntu 19.04 NVidia Drivers</li>
+				<li>Nathan - DMX Lighting</li>
+				<li>Carey - Church Wifi Question</li>
+				</ul>
+				
+				<h3><strong>--  The Extra Credit Section --</strong></h3>
+				
+				<p>For links to the articles and material referenced in this week&#39;s episode check out this week&#39;s page from our podcast dashboard!</p>
+				
+				<p><a href="http://podcast.asknoahshow.com/123" rel="nofollow">This Episode&#39;s Podcast Dashboard</a></p>
+				
+				<p><a href="http://www.voxtelesys.com/asknoah" rel="nofollow">Phone Systems for Ask Noah provided by Voxtelesys</a></p>
+				
+				<p>Join us in our dedicated chatroom #AskNoahShow on Freenode!</p>
+				
+				<h3><strong>-- Stay In Touch --</strong></h3>
+				
+				<p><strong>Find all the resources for this show on the Ask Noah Dashboard</strong></p>
+				
+				<blockquote>
+				<p><a href="http://www.asknoahshow.com" rel="nofollow">Ask Noah Dashboard</a></p>
+				</blockquote>
+				
+				<p><strong>Need more help than a radio show can offer? Altispeed provides commercial IT services and they’re excited to offer you a great deal for listening to the Ask Noah Show. Call today and ask about the discount for listeners of the Ask Noah Show!</strong></p>
+				
+				<blockquote>
+				<p><a href="http://www.altispeed.com/" rel="nofollow">Altispeed Technologies</a></p>
+				</blockquote>
+				
+				<p><strong>Contact Noah</strong></p>
+				
+				<blockquote>
+				<p>live [at] asknoahshow.com</p>
+				</blockquote>
+				
+				<p><strong>-- Twitter --</strong></p>
+				
+				<ul>
+				<li><a href="https://twitter.com/kernellinux" rel="nofollow">Noah - Kernellinux</a></li>
+				<li><a href="https://twitter.com/asknoahshow" rel="nofollow">Ask Noah Show</a></li>
+				<li><a href="https://twitter.com/altispeed" rel="nofollow">Altispeed Technologies</a></li>
+				</ul><p>Links:</p><ul><li><a href="https://www.qlcplus.org/" title="QLC+ by Massimo Callegari" rel="nofollow">QLC+ by Massimo Callegari</a></li><li><a href="http://www.amazon.com/exec/obidos/ASIN/B00T8OKM98/altispeed-20" title="Amazon.com: DMXking UltraDMX Micro – USB DMX Adapter/Dongle: Gateway" rel="nofollow">Amazon.com: DMXking UltraDMX Micro – USB DMX Adapter/Dongle: Gateway</a></li></ul>
+				]]>
+			</summary>
+		</item>
+	</channel>
+</rss>
